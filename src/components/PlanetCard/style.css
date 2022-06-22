@@ -1,0 +1,50 @@
+.planet-image {
+  width: 100%;
+}
+
+.planet-name {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy, serif;
+  text-align: center;
+}
+
+#planet-0 , #planet-7 {
+  position: relative;
+  top: -250px;
+  width: 100%;
+  box-shadow: 0 0 10px white;
+  border: 1px solid white;
+  border-radius: 120px;
+  padding: 10px;
+}
+
+#planet-1 , #planet-6 {
+position: relative;
+top: -130px;
+width: 100%;
+box-shadow: 0 0 10px white;
+border: 1px solid white;
+border-radius: 120px;
+padding: 10px;
+}
+
+#planet-2 , #planet-5 {
+  position: relative;
+  top: -30px;
+  width: 100%;
+  box-shadow: 0 0 10px white;
+  border: 1px solid white;
+  border-radius: 120px;
+  padding: 10px;
+}
+
+#planet-3 , #planet-4 {
+  position: relative;
+  top: 50px;
+  width: 100%;
+  box-shadow: 0 0 10px white;
+  border: 1px solid white;
+  border-radius: 120px;
+  padding: 10px;
+}

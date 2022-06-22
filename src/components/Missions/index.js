@@ -1,7 +1,8 @@
+import './style.css'
 import React from 'react';
-import Title from './Title';
-import missions from '../data/missions';
-import MissionCard from './MissionCard';
+import Title from '../Title';
+import MissionCard from '../MissionCard';
+import missions from '../../data/missions'
 
 function missionCardGenerator({ name, year, country, destination }) {
   return (
@@ -18,9 +19,9 @@ function missionCardGenerator({ name, year, country, destination }) {
 class Missions extends React.Component {
   render() {
     return (
-      <div data-testid="missions">
+      <div id='missions-container' data-testid="missions">
         <Title headline="Missões" />
-        <div>
+        <div id="cardMissions-container">
           {missions.map((mission) => missionCardGenerator(mission))}
         </div>
       </div>

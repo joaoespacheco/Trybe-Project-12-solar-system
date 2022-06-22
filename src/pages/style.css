@@ -1,0 +1,8 @@
+#container-main {
+  background-image: url('../images/man-and-the-universe.jpg');
+  background-attachment: fixed;
+  background-position: 0 40%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
