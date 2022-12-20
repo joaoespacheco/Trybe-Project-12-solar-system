@@ -55,5 +55,5 @@ Requisitos Obrigatórios:
 * React
 
 ## 📝 Desenvolvido por:
-* [João Emanuel Soares Pacheco] (https://github.com/joaoespacheco)
+* [João Emanuel Soares Pacheco](https://github.com/joaoespacheco)
 
