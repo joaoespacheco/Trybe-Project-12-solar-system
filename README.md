@@ -8,7 +8,7 @@ Este foi meu primeiro projeto desenvolvido com a biblioteca React.
 
 O projeto é composto por uma página estática e foi desenvolvido com o objetivo de criar uma aplicação react visando utilizar e reutilizar seus componentes.
 </br>
-Ao final da aplicação o usuários deverá poder:
+Dentro da aplicação o usuário poderá:
 > * Visualizar todos os planetas do sistema solar renderizados na tela;
 > * Visualizar todas as cartas com informações sobre missões espaciais;
 
