@@ -14,6 +14,7 @@ Dentro da aplicação o usuário poderá:
 
 As imagens dos planetas e as informações sobre as missões espaciais estão armazenadas localmente.
 
+</br>
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
@@ -40,6 +41,7 @@ Requisitos Obrigatórios:
 <summary><strong>Visualizar projeto</strong></summary>
 :construction: Área em construção ! :construction:
 </details>
+</br>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
 * Desenvolver uma aplicação básica react
@@ -47,12 +49,14 @@ Requisitos Obrigatórios:
 * Criar múltiplos componenetes a partir de um array
 * Fazer o uso de props corretamente
 * Fazer o uso de Proptypes para validar as props de um componente
+</br>
 
 ## 🧰 Ferramentas:
 * HTML
 * CSS
 * JavaScript
 * React
+</br>
 
 ## 📝 Desenvolvido por:
 * [João Emanuel Soares Pacheco](https://github.com/joaoespacheco)
