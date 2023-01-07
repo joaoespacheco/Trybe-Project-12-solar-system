@@ -21,14 +21,12 @@ Aprovado com 100% de desempenho em todos os requisitos
 
 ![image](https://user-images.githubusercontent.com/99846604/211168304-91741d0d-1992-43df-8c80-c7c25e2887da.png)
 
-undefined
 </details>
 
 <details>
 <summary><strong>Requisitos</strong></summary>
-Requisitos Obrigatórios: 
 </br>
-</br>
+<strong>Requisitos obrigatórios:</strong> </br>
 1. Crie um componente chamado `Header` </br>
 2. Crie um componente chamado `SolarSystem` </br>
 3. Crie um componente chamado `Title` </br>
