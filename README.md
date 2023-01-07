@@ -49,6 +49,21 @@ Requisitos Obrigatórios:
 </details>
 </br>
 
+## ⚙️ Execução
+
+Faça o clone deste repositório com o seguinte comando.
+
+        git clone git@github.com:joaoespacheco/Trybe-Project-12-solar-system.git
+
+Para exercutar o projeto utilize o comando abaixo para instalar as dependências.
+
+        npm install
+
+Inicie a aplicação com o comando abaixo.
+
+        npm start
+</br>
+
 ## 🤹🏽 Habilidades Desenvolvidas:
 * Desenvolver uma aplicação básica react
 * Criar e reutilizar componentes react
