@@ -18,6 +18,10 @@ As imagens dos planetas e as informações sobre as missões espaciais estão ar
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
+
+![image](https://user-images.githubusercontent.com/99846604/211168304-91741d0d-1992-43df-8c80-c7c25e2887da.png)
+
+undefined
 </details>
 
 <details>
@@ -39,7 +43,9 @@ Requisitos Obrigatórios:
 
 <details>
 <summary><strong>Visualizar projeto</strong></summary>
-:construction: Área em construção ! :construction:
+
+![Sola-system-layout](https://user-images.githubusercontent.com/99846604/211168178-320bd614-6e09-4d12-8043-0db530409b6b.gif)
+
 </details>
 </br>
 
