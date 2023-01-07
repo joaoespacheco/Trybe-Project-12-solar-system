@@ -49,15 +49,15 @@ Aprovado com 100% de desempenho em todos os requisitos
 
 ## ⚙️ Execução
 
-Faça o clone deste repositório com o seguinte comando.
+Faça o clone deste repositório com o seguinte comando:
 
         git clone git@github.com:joaoespacheco/Trybe-Project-12-solar-system.git
 
-Para exercutar o projeto utilize o comando abaixo para instalar as dependências.
+Para exercutar o projeto utilize o comando abaixo para instalar as dependências:
 
         npm install
 
-Inicie a aplicação com o comando abaixo.
+Inicie a aplicação com o comando abaixo:
 
         npm start
 </br>
