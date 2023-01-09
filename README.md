@@ -18,13 +18,15 @@ As imagens dos planetas e as informações sobre as missões espaciais estão ar
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
+
+![image](https://user-images.githubusercontent.com/99846604/211168304-91741d0d-1992-43df-8c80-c7c25e2887da.png)
+
 </details>
 
 <details>
 <summary><strong>Requisitos</strong></summary>
-Requisitos Obrigatórios: 
 </br>
-</br>
+<strong>Requisitos obrigatórios:</strong> </br>
 1. Crie um componente chamado `Header` </br>
 2. Crie um componente chamado `SolarSystem` </br>
 3. Crie um componente chamado `Title` </br>
@@ -39,8 +41,27 @@ Requisitos Obrigatórios:
 
 <details>
 <summary><strong>Visualizar projeto</strong></summary>
-:construction: Área em construção ! :construction:
+
+### Tela principal:
+
+![Sola-system-layout](https://user-images.githubusercontent.com/99846604/211168178-320bd614-6e09-4d12-8043-0db530409b6b.gif)
+
 </details>
+</br>
+
+## ⚙️ Execução
+
+Faça o clone deste repositório com o seguinte comando:
+
+        git clone git@github.com:joaoespacheco/Trybe-Project-12-solar-system.git
+
+Para exercutar o projeto utilize o comando abaixo para instalar as dependências:
+
+        npm install
+
+Inicie a aplicação com o comando abaixo:
+
+        npm start
 </br>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
