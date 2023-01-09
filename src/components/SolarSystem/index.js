@@ -1,11 +1,18 @@
-import './style.css'
+import './style.css';
 import React from 'react';
 import Title from '../Title';
 import PlanetCard from '../PlanetCard';
 import planets from '../../data/planets';
 
 function planetCardGenerator(name, image, index) {
-  return <PlanetCard index={index} key={ name } planetName={ name } planetImage={ image } />;
+  return (
+    <PlanetCard
+      index={ index }
+      key={ name }
+      planetName={ name }
+      planetImage={ image }
+    />
+  );
 }
 
 class SolarSystem extends React.Component {
@@ -14,7 +21,9 @@ class SolarSystem extends React.Component {
       <div data-testid="solar-system">
         <Title headline="Planetas" />
         <div id="planets-container" className="planet">
-          {planets.map(({ name, image }, index) => planetCardGenerator(name, image, index))}
+          {planets.map(
+            ({ name, image }, index) => planetCardGenerator(name, image, index),
+          )}
         </div>
       </div>
     );
