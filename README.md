@@ -40,13 +40,18 @@ Aprovado com 100% de desempenho em todos os requisitos
 </details>
 
 <details>
-<summary><strong>Visualizar projeto</strong></summary>
+<summary><strong>Imagens do projeto</strong></summary>
 
 ### Tela principal:
 
 ![Sola-system-layout](https://user-images.githubusercontent.com/99846604/211168178-320bd614-6e09-4d12-8043-0db530409b6b.gif)
 
 </details>
+
+</br>
+
+### [👨‍💻 Clique aqui para acessar o projeto em seu navegador](https://solar-system-joaoespacheco.vercel.app/) 
+
 </br>
 
 ## ⚙️ Execução
